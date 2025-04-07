@@ -13,6 +13,7 @@ source ./common/set_up_git.sh
 source ./common/set_up_nvidia_drivers.sh
 source ./common/set_up_keepassxc.sh
 source ./common/set_up_codec.sh
+source ./set_up_filezilla.sh
 
 # Database
 source ./database/set_up_postgresql.sh
